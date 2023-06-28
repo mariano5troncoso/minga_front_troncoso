@@ -10,7 +10,7 @@ export default function footer() {
       <h6>Mangas</h6>
       </div>
       
-      <div> <img src="/Logo.png" alt="" className="h-24 w-24" /></div>
+      <div> <img src="/logo1.png" alt="" className="h-24 w-24" /></div>
      
       <div className='flex-col'>
         <div className='flex justify-around'>
@@ -19,7 +19,7 @@ export default function footer() {
         <img src="/vimeo-black.png" alt="socialmedia" className="h-10 w-10" />
         <img src="/youtube-black.png" alt="socialmedia" className="h-10 w-10" />
         </div>
-      <button className="bg-gradient-to-r from-pink-300 via-pink-500 to-pink-600 text-white w-56 h-10  
+      <button className="bg-gradient-to-r from-[#F9A8D4] to-[#F472B6] text-white w-56 h-10  
         rounded-md mt-2">
           <div className='flex'>
           <span className="ml-16">Donate</span>

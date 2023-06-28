@@ -4,7 +4,7 @@ export default function carousel() {
     let left = "M11.25 9l-3 3m0 0l3 3m-3-3h7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
     let right = "M12.75 15l3-3m0 0l-3-3m3 3h-7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
   return (
-    <div className='max-md:hidden w-full h-g4 rounded-md bg-gradient-to-r from-pink-300 via-pink-500 to-pink-600 flex justify-around gap-4 items-center'>
+    <div className='max-md:hidden w-full h-g4 rounded-md bg-gradient-to-r from-[#F9A8D4] to-[#F472B6] flex justify-around gap-4 items-center'>
 
 <Arrow icon = {left} />
    
